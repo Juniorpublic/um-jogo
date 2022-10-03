@@ -1,0 +1,149 @@
+
+<!doctype html> 
+<html>
+
+<head>
+
+<title> um jogo </title>
+<style>
+
+p {color: blue; font-size: 22px; }
+
+.a { width: 100%; height:300px; border: 1px solid black; background-image: url("https://www.10wallpaper.com/wallpaper/1366x768/1811/Universe_Starry_Sky_Space_HD_Nebula_1366x768.jpg"); }
+.b { display: block;
+    margin-left: auto;
+    margin-right: auto ;
+      }
+
+
+ 
+button {    
+    
+  border: none;
+  color: green;
+  padding: 9px ;
+  
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 10px ;
+   margin-right: 150px;
+  cursor: pointer; border-radius: 8px;
+
+ 
+
+ }
+ .v {width: 20px;}
+
+
+
+#c {  width: 100%: border: 1px solid black;text-align: center; background-image: url("https://www.10wallpaper.com/wallpaper/1366x768/1811/Universe_Starry_Sky_Space_HD_Nebula_1366x768.jpg");}
+
+
+
+
+.e {    background-repeat: no-repeat;   border: 1px solid black; margin-top: 5px; height:200px; background-image: url("https://nivalmix.vteximg.com.br/arquivos/ids/209882?v=637814043726170000"); }
+
+
+
+
+#bu { width: 400px; height:200px; margin-left: 200px; margin-top: -5px;  padding:220px:}
+
+
+
+
+body {background: black;}
+
+#pal {  position: relative;
+    height: 600px;
+    width: 100vw; background-size: cover; margin-top: 7px;  }
+
+ 
+.sk {  color: white font-size: 30px; width: 200px;  height:300px; margin-left: 200px; font-style: Georgia, serif;  }
+
+
+
+
+
+
+
+
+</style>
+
+
+
+</head>
+
+
+<body>
+<div class ="a">
+
+
+<img class= "b"  src=" https://www.ajudandroid.com.br/wp-content/uploads/2012/09/shadowgun-deadzone-android.jpg"    >
+
+ </div> 
+
+<div id="c"> 
+
+<button> jogo </button> 
+<button> notícia </button> 
+<button> contato</button> 
+<button> conta</button> 
+
+
+
+
+
+</div >
+
+ 
+
+<div class= "e"> 
+
+
+<div id= "bu"> <p>  NOVOS RECURSOS
+- Novo mapa DM "Invasion Arena"
+- Um novo tipo de projétil de sniper, o laser verde, torna os rifles de sniper mais desafiadores de usar
+- Efeito de brilho de sniper reduzido
+- Estatísticas detalhadas incluídas nas estatísticas do jogador</p> </div> 
+
+
+
+
+
+</div>
+
+
+
+<div > <img id="pal" src = "https://img.ibxk.com.br/2012/10/programas/3153973169302-o.jpg" >
+
+
+ </div>
+
+ <div class="sk"> 
+
+<p> skins e armas</P>
+
+
+
+
+
+</div> 
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+</html>
